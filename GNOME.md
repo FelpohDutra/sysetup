@@ -13,6 +13,8 @@ Installing these are fairly easy:
 
  - For *Cursors* and *Icons*, extract the compressed files inside ~/.icons
  - For *Shell*, extract the files inside ~/.themes
+ 
+ >"Shell" option requires extension mentioned in the next section 
 
 # Extensions
 First things first, install the **[Extension Manager](https://aur.archlinux.org/packages/extension-manager)** from the AUR (or Flathub). It makes life 100x easier.
