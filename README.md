@@ -23,3 +23,9 @@ Ricing KDE too much results in a terrible experience on my testings. The system 
 
 ## Observation
 This setup is ***somewhat impractical***, considering the heavy use of *Extensions*, resulting in breakage of some features every GNOME major update. 
+
+## Setting up
+
+ 1. [**Linux Kernel**](https://github.com/FelpohDutra/sysetup/blob/main/KERNEL.md) setup. Very important as it contains post-install configuration needed for my system to properly work with my **current** GPU + MOBO (*very weird bug*).
+ 2. [**GNOME**](https://github.com/FelpohDutra/sysetup/blob/main/GNOME.md) setup. 
+ 3. [**Software specific**](https://github.com/FelpohDutra/sysetup/blob/main/SOFTWARE.md) setup.
