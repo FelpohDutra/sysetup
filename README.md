@@ -7,7 +7,7 @@
 ![VM just for testing before applying everything to my actual PC](https://preview.redd.it/gnome-my-first-rice-ever-v0-sw6p4n8ooijd1.png?width=1920&format=png&auto=webp&s=b690a2b9d1f8fd7231eee7b4f749a1817cfcd32a)
 >too weeb even for my own taste, but that's what I was able to cook.
 
-It's mostly a "windows like" experience (*to not say completely*). I'm just to used to this arrangement and it feels like home. I was able to get *some* transparency on specific parts of the system, but not on it's totally. 
+It's mostly a "Windows like" experience (*to not say completely*). I'm just to used to this arrangement and it feels like home. I was able to get *some* transparency on specific parts of the system, but not on it's totally. 
 
 ### **Why not KDE?** 
 Ricing KDE too much results in a terrible experience on my testings. The system starts to feel unresponsive and stuff tends to break. These are just my thoughts however. (*Yes, using extensions on GNOME, for me, is just more stable.*)
