@@ -11,5 +11,11 @@ You can add this, and other, parameters by following this page from the Arch Wik
  - [GRUB](https://wiki.archlinux.org/title/Kernel_parameters#GRUB)
  - [SYSTEMD-BOOT](https://wiki.archlinux.org/title/Kernel_parameters#systemd-boot)
 
-### Custom Kernel
+## Custom Kernel
 Personally, I like to use a custom kernel. For this, I recommend the TKG kernel. Installing it is pretty easy so there's not a lot that I can say other than linking it's [Github](https://github.com/Frogging-Family/linux-tkg) page.
+
+### Optional tweaks
+Everything ***except*** for:
+
+ - `ZFS` FPU
+ - Provide own kernel  `.config`  file
