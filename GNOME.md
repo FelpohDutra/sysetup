@@ -33,13 +33,13 @@ For **"User-Installed Extensions"**, you can install the extensions in any order
 
 ### 2. Blur my Shell @ aunetx
 
- 1. **Leave everything on default**, expect for:
+ 1. **Leave everything on default**, except for:
 	 -  Panel: Switch **Blur type** to **Dynamic** 
 	 - Applications: Turn it **ON**; Set **"Sigma"** to **1**; **"Brightness"** and **"Opacity"** to **Maximum** possible; **"Opaque focused window"** and **"Enable all by default"** **ON** and **"Blur on overview"** **OFF**.
 
 ### 3. ArcMenu @ arcmenu
 
- 1. **Leave everything on default**, expect for:
+ 1. **Leave everything on default**, except for:
  -  Menu: **Menu Layout** > **Windows** (under **"Modern Layout Menus"**).
 
 ### 4. Just Perfection @ just-perfection
