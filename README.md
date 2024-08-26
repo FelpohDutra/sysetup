@@ -16,7 +16,7 @@ Ricing KDE too much results in a terrible experience on my testings. The system 
 
 ## Requirements
 
- - Basic Arch installation with AUR helper configured (preferebly [paru](https://github.com/Morganamilo/paru));
+ - Basic Arch installation with AUR helper configured (preferably [paru](https://github.com/Morganamilo/paru));
  - [GNOME](https://wiki.archlinux.org/title/GNOME), using the *gnome* package and *GNOME Tweaks* installed later;
  - [Flatpak](https://flatpak.org/setup/Arch) configured;
  - [BlackBox Terminal Emulator](https://flathub.org/apps/com.raggesilver.BlackBox).
