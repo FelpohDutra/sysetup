@@ -4,7 +4,7 @@
 
 > *This also works as a test document for me and will probably be archived*.
 ## Look and feel
-![VM just for testing before applying everything to my actual PC](https://preview.redd.it/gnome-my-first-rice-ever-v0-sw6p4n8ooijd1.png?width=1920&format=png&auto=webp&s=b690a2b9d1f8fd7231eee7b4f749a1817cfcd32a)
+![VM just for testing before applying everything to my actual PC](https://raw.githubusercontent.com/FelpohDutra/sysetup/main/images/gnome-my-first-rice-ever-v0-sw6p4n8ooijd1.webp)
 >too weeb even for my own taste, but that's what I was able to cook.
 
 It's mostly a "windows like" experience (*to not say completely*). I'm just too used to this arrangement and it feels like home. I was able to get *some* transparency on specific parts of the system, but not on it's totally. 
