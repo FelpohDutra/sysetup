@@ -76,8 +76,8 @@ Change **"Indicator position on panel"** to **"Far Right"**.
 
 The final result will look something like this:
 
-![same from the main page](https://preview.redd.it/gnome-my-first-rice-ever-v0-ijj3mwimoijd1.png?width=1080&crop=smart&auto=webp&s=2098995565cba837ec83626dbf7215d2943ec17a)
+![same from the main page](https://raw.githubusercontent.com/FelpohDutra/sysetup/main/images/gnome-my-first-rice-ever-v1.webp)
 
 By editing a little bit more, you can even get something that looks a bit more with "Windows"! (*uncanny valley territory to be honest*)
 
-![what](https://i.ibb.co/2yFsrJ7/Screenshot-from-2024-08-25-16-48-32.png)
+![what](https://github.com/FelpohDutra/sysetup/blob/main/images/Screenshot-from-2024-08-25-16-48-32.png?raw=true)
