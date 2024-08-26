@@ -12,7 +12,7 @@ It's mostly a "windows like" experience (*to not say completely*). I'm just too 
 ### **Why not KDE?** 
 Ricing KDE too much results in a terrible experience on my testings. The system starts to feel unresponsive and stuff tends to break. These are just my thoughts however. (*Yes, using extensions on GNOME, for me, is just more stable.*)
 
-![yes](https://media.discordapp.net/attachments/914717294020685855/1255863399552778261/1718955690256545.gif?ex=66cc75ef&is=66cb246f&hm=af7677682947a3fe6a42f97d7280410e6aa914739427e91485ddedd24985d2a2&=&width=410&height=245)
+![yes](https://github.com/FelpohDutra/sysetup/blob/main/images/1718955690256545.gif?raw=true)
 
 ## Requirements
 
