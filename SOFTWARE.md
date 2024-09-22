@@ -42,3 +42,20 @@ After that, enable the service and start it.
 Indication of a cool theme that I usually use
 > [system24](https://github.com/refact0r/system24), a tui-style discord theme.
 ![screenshot](https://github.com/refact0r/system24/raw/main/assets/screenshot3.png)
+
+# Easy Effects
+Easily one of the most important parts of my setup, as I'm addicted to listening to music, and having good audio just makes it even more addicting.
+
+**Equalizer**
+
+I have a Superlux HD681 with some really thick pads, so this preset was made with it in mind, with some inspiration from online presets. 
+
+![](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/main/images/Equalizer.png)
+> [Download](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/main/images/custom)
+
+**Microphone**
+Just two effects that makes my mic sound better and not too much robotic/filtered.
+
+![](https://github.com/FelpohDutra/sysetup/blob/main/images/Mic1.png?raw=true)
+
+![](https://github.com/FelpohDutra/sysetup/blob/main/images/Mic%202.png?raw=true)
