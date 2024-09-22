@@ -30,4 +30,4 @@ This setup is ***somewhat impractical***, considering the heavy use of *Extensio
 
  1. [**Linux Kernel**](https://github.com/FelpohDutra/sysetup/blob/main/KERNEL.md) setup. Very important as it contains post-install configuration needed for my system to properly work.
  2. [**GNOME**](https://github.com/FelpohDutra/sysetup/blob/main/GNOME.md) setup. 
- 3. [**Software specific**](https://github.com/FelpohDutra/sysetup/blob/main/KERNEL.md) setup.
+ 3. [**Software specific**](https://github.com/FelpohDutra/sysetup/blob/main/SOFTWARE.md) setup.
