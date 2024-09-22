@@ -1,6 +1,6 @@
 # Discord
 Firstly, because Discord's official app for Linux is sort of terrible, I use [Vesktop](https://github.com/Vencord/Vesktop), which comes with the Vencord mod installed and also has a solution for screensharing with audio!
-> (In my experience, it works fine, with the only major downside being that you can't share the audio of your entire screen when using with something that process your audio inputs, e.g [Easy Effects](https://github.com/wwmm/easyeffects))
+> (In my experience, it works fine, with the only major downside being that you can't share the audio of your entire screen when using with something that process your audio outputs, e.g [Easy Effects](https://github.com/wwmm/easyeffects))
 
 #### Plugins
 - NoDevtoolsWarning
