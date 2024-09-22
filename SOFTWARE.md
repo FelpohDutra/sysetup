@@ -122,7 +122,7 @@ That's how my fastfetch's *config.jsonc* looks like
 
 # Sleepy Launcher
 
-Although I barely play ZZZ nowadays, due to some issues with dxvk, this game has a really bad problem with VRAM leak, using this commands make the game not crash when you eventually get limited by VRAM
+Although I barely play ZZZ nowadays, due to some issues with dxvk, this game has a really bad problem with VRAM leak, using these commands make the game not crash when you eventually get limited by VRAM
 
 >This is mostly a problem for people with a graphics card with 8GB or less, so ymmv.
 
