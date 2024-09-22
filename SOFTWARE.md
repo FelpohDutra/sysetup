@@ -139,7 +139,7 @@ Another game that I barely play nowadays, but when I do, I like it with mods (wh
 - Inside, write this:
 >You can't use "~/" here; replace "YOUR_USER" and "YOUR_DESIRED_FRAMERATE"
 
-     cd /home/YOUR_USER/.local/share/anime-game-launcher/prefix/drive_c/Program Files/3dmigoto
+cd /home/YOUR_USER/.local/share/anime-game-launcher/prefix/drive_c/Program Files/3dmigoto
     start "" "3DMigoto Loader.exe"
     
     cd /home/YOUR_USER/.local/share/anime-game-launcher/Genshin Impact/
@@ -151,4 +151,5 @@ Another game that I barely play nowadays, but when I do, I like it with mods (wh
 - Install 3DMigoto on the path specified, also download this [DLL](https://cdn.discordapp.com/attachments/1132397027200868502/1142460757385162862/d3dcompiler_47.dll?ex=66f176fe&is=66f0257e&hm=42feaf1650de019d926a0e31a634c858c835cafc9f083a35db02e95849e1601e&) and place on the 3DMigoto folder;
 - Download this [FPS Unlocker](https://codeberg.org/mkrsym1/fpsunlock) and install on the path specified too;
 - Finally, on *"winecfg"*, add a DLL override for "*d3dcompiler_47*", and make sure it's configured as "*Native*".
+- 
 ![enter image description here](https://media.discordapp.net/attachments/779555911634255932/1287527953495883939/image.png?ex=66f1df59&is=66f08dd9&hm=04acad6771902ee0ba75651b738f3b274fcb6ba087d2dd63797f865846723c44&=&format=webp&quality=lossless&width=1004&height=509)
