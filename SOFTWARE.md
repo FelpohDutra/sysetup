@@ -139,7 +139,7 @@ Another game that I barely play nowadays, but when I do, I like it with mods (wh
 - Inside, write this:
 >You can't use "~/" here; replace "YOUR_USER" and "YOUR_DESIRED_FRAMERATE"
 
-cd /home/YOUR_USER/.local/share/anime-game-launcher/prefix/drive_c/Program Files/3dmigoto
+    cd /home/YOUR_USER/.local/share/anime-game-launcher/prefix/drive_c/Program Files/3dmigoto
     start "" "3DMigoto Loader.exe"
     
     cd /home/YOUR_USER/.local/share/anime-game-launcher/Genshin Impact/
