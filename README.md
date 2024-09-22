@@ -7,6 +7,8 @@
 ![VM just for testing before applying everything to my actual PC](https://raw.githubusercontent.com/FelpohDutra/sysetup/main/images/gnome-my-first-rice-ever-v0-sw6p4n8ooijd1.webp)
 >too weeb even for my own taste, but that's what I was able to cook.
 
+![enter image description here](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/main/images/Updated.png)
+
 It's mostly a "windows like" experience (*to not say completely*). I'm just too used to this arrangement and it feels like home. I was able to get *some* transparency on specific parts of the system, but not on it's totally. 
 
 ### **Why not KDE?** 
