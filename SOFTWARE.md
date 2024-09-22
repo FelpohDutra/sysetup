@@ -4,8 +4,12 @@ Firstly, because Discord's official app for Linux is sort of terrible, I use [Ve
 
 #### Plugins
 - NoDevtoolsWarning
-If you're not a masochist, using this plugin is basically essential, otherwise your discord will keep logging you off every time you close the app *wrongly*. 
+
+
 ![](https://cdn.discordapp.com/attachments/779555911634255932/1274870850071298178/image.png?ex=66f14f40&is=66effdc0&hm=7e205f00147ef8603ef4c93af181a33d37ae5ae269a6e9045f70329c667ee7a4&=)
+
+If you're not a masochist, using this plugin is basically essential, otherwise your discord will keep logging you off every time you close the app *wrongly*. 
+
 ### ArRPC
 > For this to work properly, start the server manually at least once. 
 
