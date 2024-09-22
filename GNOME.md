@@ -100,6 +100,8 @@ The final result will look something like this:
 
 ![same from the main page](https://raw.githubusercontent.com/FelpohDutra/sysetup/main/images/gnome-my-first-rice-ever-v1.webp)
 
+![enter image description here](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/main/images/Updated.png)
+
 By editing a little bit more, you can even get something that looks a bit more with "Windows"! (*uncanny valley territory to be honest*)
 
 ![what](https://github.com/FelpohDutra/sysetup/blob/main/images/Screenshot-from-2024-08-25-16-48-32.png?raw=true)
