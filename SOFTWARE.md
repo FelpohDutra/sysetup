@@ -60,3 +60,49 @@ Just two effects that makes my mic sound better and not too much robotic/filtere
 ![](https://github.com/FelpohDutra/sysetup/blob/main/images/Mic1.png?raw=true)
 
 ![](https://github.com/FelpohDutra/sysetup/blob/main/images/Mic%202.png?raw=true)
+
+# FastFetch
+![](https://github.com/FelpohDutra/sysetup/blob/main/images/Sixel.png?raw=true)
+
+With the **Blackbox** Terminal, images can be displayed when Sixel support is enabled 
+
+That's how my fastfetch's *config.jsonc* looks like
+
+    {
+      "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+      "logo": {
+        "type": "sixel",
+        "source": "/path_to_picture.whatever/"
+    },
+      "modules": [
+        "title",
+        "separator",
+        "os",
+        "host",
+        "kernel",
+        "shell",
+        "display",
+        "de",
+        "wmtheme",
+        "theme",
+        "icons",
+        "font",
+        "cpu",
+        "gpu",
+        "memory",
+        "break",
+      ]
+    }
+
+
+# Fish
+1. [Install Fish](https://github.com/fish-shell/fish-shell?tab=readme-ov-file)
+2. [Install Fisher](https://github.com/jorgebucaran/fisher)
+3. [Install Tide](https://github.com/IlanCosman/tide)
+	
+>**Tide** looks great!
+>![](https://github.com/IlanCosman/tide/raw/assets/images/header.png)
+
+
+
+#### To have fastfetch welcome you every time you open the terminal, add `fastfetch`to `~/.config/fish/config.fish` 
