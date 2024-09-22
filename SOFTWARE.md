@@ -101,6 +101,7 @@ That's how my fastfetch's *config.jsonc* looks like
 3. [Install Tide](https://github.com/IlanCosman/tide)
 	
 >**Tide** looks great!
+
 ![](https://github.com/IlanCosman/tide/raw/assets/images/header.png)
 
 
