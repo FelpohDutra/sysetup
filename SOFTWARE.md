@@ -54,6 +54,7 @@ I have a Superlux HD681 with some really thick pads, so this preset was made wit
 > [Download](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/main/images/custom)
 
 **Microphone**
+
 Just two effects that makes my mic sound better and not too much robotic/filtered.
 
 ![](https://github.com/FelpohDutra/sysetup/blob/main/images/Mic1.png?raw=true)
