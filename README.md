@@ -1,3 +1,7 @@
+## ❌ Deprecated ❌
+> The configs made here don't reflect my system nowadays. I'm now using a  minimal GNOME rice. 
+> However, this repository won't be set as a public archive, at least for now. I may or may not update this page with my current rice.  
+
 # My system configs
 
 > Basic configurations I do on my PC to get it up and running the way I like it. Basically, GNOME customizations :smile:
