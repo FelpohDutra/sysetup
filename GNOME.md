@@ -17,6 +17,7 @@ Installing these are fairly easy:
 First things first, install the Extension Manager. It makes life 100x easier.
 
 These are the extensions, customize them as you wish, they will end up looking similar to my setup if you keep it simple.
+
 ![MyExtension](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/dev/images/Extensions.png)
 
 # Easy Effects
