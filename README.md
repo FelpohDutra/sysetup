@@ -1,37 +1,39 @@
-## ❌ Deprecated ❌
-> The configs made here don't reflect my system nowadays. I'm now using a  minimal GNOME rice. 
-> However, this repository won't be set as a public archive, at least for now. I may or may not update this page with my current rice.  
-
 # My system configs
 
-> Basic configurations I do on my PC to get it up and running the way I like it. Basically, GNOME customizations :smile:
+> Basic configurations I do on my computers to get it up and running the way I like it 
 
-> *This also works as a test document for me and will probably be archived*.
 ## Look and feel
-![VM just for testing before applying everything to my actual PC](https://raw.githubusercontent.com/FelpohDutra/sysetup/main/images/gnome-my-first-rice-ever-v0-sw6p4n8ooijd1.webp)
->too weeb even for my own taste, but that's what I was able to cook.
+Main setup - **GNOME**
 
-![enter image description here](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/main/images/Updated.png)
+![Image basic GNOME](https://github.com/FelpohDutra/sysetup/blob/dev/images/GNOME2025.png?raw=true)
 
-It's mostly a "windows like" experience (*to not say completely*). I'm just too used to this arrangement and it feels like home. I was able to get *some* transparency on specific parts of the system, but not on it's totally. 
+![Image basic GNOME 2](https://github.com/FelpohDutra/sysetup/blob/dev/images/GNOME20252.png?raw=true)
+
+It's mostly default GNOME with few tweaks as possible. Despite what's said, I really like GNOME and I don't see any flaws  on the design and it's been by far the most solid experience on any DE/WM I have ever used.
+***
+Laptop used for work here and there, usually when out in college - **XFCE**
+
+![Image LinuXP](https://github.com/FelpohDutra/sysetup/blob/dev/images/linuxp.png?raw=true)
+
 
 ### **Why not KDE?** 
-Ricing KDE too much results in a terrible experience on my testings. The system starts to feel unresponsive and stuff tends to break. These are just my thoughts however. (*Yes, using extensions on GNOME, for me, is just more stable.*)
+Ricing KDE too much results in a terrible experience on my testings. The system starts to feel unresponsive and stuff tends to break. These are just my thoughts. (*Yes, even using extensions on GNOME, or building a dozen extra programs for XFCE is just more stable.*)
 
 ![yes](https://github.com/FelpohDutra/sysetup/blob/main/images/1718955690256545.gif?raw=true)
 
 ## Requirements
 
- - Basic Arch installation with AUR helper configured (preferably [paru](https://github.com/Morganamilo/paru));
- - [GNOME](https://wiki.archlinux.org/title/GNOME), using the *gnome* package and *GNOME Tweaks* installed later;
- - [Flatpak](https://flatpak.org/setup/Arch) configured;
- - [BlackBox Terminal Emulator](https://flathub.org/apps/com.raggesilver.BlackBox).
+ - Fedora/RHEL based system, I personally like [Ultramarine Linux](https://ultramarine-linux.org/);
+ - GNOME/XFCE;
+ - Some patience.
+
 
 ## Observation
-This setup is ***somewhat impractical***, considering the heavy use of *Extensions*, resulting in breakage of some features every GNOME major update. 
+This setup ***may be somewhat impractical***, considering the heavy use of *Extensions* on GNOME and having to build the programs used for the XP interface for XFCE. 
 
 ## Setting up
 
- 1. [**Linux Kernel**](https://github.com/FelpohDutra/sysetup/blob/main/KERNEL.md) setup. Very important as it contains post-install configuration needed for my system to properly work.
- 2. [**GNOME**](https://github.com/FelpohDutra/sysetup/blob/main/GNOME.md) setup. 
- 3. [**Software specific**](https://github.com/FelpohDutra/sysetup/blob/main/SOFTWARE.md) setup.
+ 1. [**Linux Kernel**](https://github.com/FelpohDutra/sysetup/blob/2025/KERNEL.md) setup. Very important as it contains post-install configuration needed for my system to properly work.
+ 2. [**XFCE System**](https://github.com/FelpohDutra/sysetup/blob/main/GNOME.md) setup. 
+ 3. [**GNOME System**](https://github.com/FelpohDutra/sysetup/blob/main/GNOME.md) setup.
+

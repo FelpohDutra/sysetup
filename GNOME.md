@@ -1,107 +1,48 @@
-# Note
-These customizations were done on **GNOME 46.5**, they weren't tested yet on GNOME 47.
-The current state of the Extensions mentioned are described below their respective names *(Sep 27th 2024)*
 
-> On upgrading to GNOME 47, 19 out of 23 currently installed extensions will be compatible (82%).
-> 
 # Tweaks
 Starting by *GNOME Tweaks*, tweaks :wink:.
 
 Under **Appearance**, the following is installed:
 
- - [Cursor](https://www.gnome-look.org/p/1503665)
-- [Icons](https://www.gnome-look.org/p/1256209/)
-- [Shell](https://www.gnome-look.org/p/1977647)
-
-All available colors for *Shell* and *Icons* were installed, this way, whenever I feel like changing the color scheme, it's easily doable.
+ - [Cursor](https://github.com/ful1e5/apple_cursor)
+- [Icons](https://www.gnome-look.org/p/2023325/)
 
 Installing these are fairly easy:
 
  - For *Cursors* and *Icons*, extract the compressed files inside ~/.icons
- - For *Shell*, extract the files inside ~/.themes
- 
- >"Shell" option requires extension mentioned in the next section 
-
-# Extensions
-First things first, install the **[Extension Manager](https://aur.archlinux.org/packages/extension-manager)** from the AUR (or Flathub). It makes life 100x easier.
-
-**System extensions**
-Enable "**User Themes**"
-
-For **"User-Installed Extensions"**, you can install the extensions in any order, as you may want.
-
- ### 1. Custom Accent Colors @ demiskp
- > Supported: No
- (Apparently supported natively on GNOME 47)
  
 
- 1. **Accent Color:** Choose whatever you want. I always like to match it with the desktop wallpaper.
- 2. **Enable all the Extra Options**
+# Extension
 
-### 2. Blur my Shell @ aunetx
- > Supported: Yes
+First things first, install the Extension Manager. It makes life 100x easier.
 
+These are the extensions, customize them as you wish, they will end up looking similar to my setup if you keep it simple.
+![MyExtension](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/dev/images/Extensions.png)
 
- 1. **Leave everything on default**, except for:
-	 -  Panel: Switch **Blur type** to **Dynamic** 
-	 - Applications: Turn it **ON**; Set **"Sigma"** to **1**; **"Brightness"** and **"Opacity"** to **Maximum** possible; **"Opaque focused window"** and **"Enable all by default"** **ON** and **"Blur on overview"** **OFF**.
+# Easy Effects
+Easily one of the most important parts of my setup, as I'm addicted to listening to music, and having good audio just makes it even more addicting.
 
-### 3. ArcMenu @ arcmenu
- > Supported: Yes
+**Equalizer**
 
+I have a Superlux HD681 with some really thick pads, so this preset was made with it in mind, with some inspiration from online presets. 
 
- 1. **Leave everything on default**, except for:
- -  Menu: **Menu Layout** > **Windows** (under **"Modern Layout Menus"**).
+![](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/main/images/Equalizer.png)
+> [Download](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/main/images/custom)
 
-### 4. Just Perfection @ just-perfection
-> Supported: Yes
+**Microphone**
 
-Customize as you wish, but it's essential for my specific look to change **"Panel Position"**, inside **Customize**, to **"Bottom"**  .
+Just two effects that makes my mic sound better and not too much robotic/filtered.
 
-### 5. App Icons Taskbar @ aztaskbar
- > Supported: Yes
+![](https://github.com/FelpohDutra/sysetup/blob/main/images/Mic1.png?raw=true)
 
+![](https://github.com/FelpohDutra/sysetup/blob/main/images/Mic%202.png?raw=true)
 
- - Leave everything on default.
+# Discord
+Firstly, because Discord's official app for Linux is sort of terrible, I use [Goofcord](https://github.com/Vencord/Vesktop), which comes with the ability to install different discord mods and also has a solution for screensharing with audio!
 
-### 6. AppIndicator and KstatusNotifierItem Support @ rgcjonas
- > Supported: Yes
+#### Plugins
 
- - Leave everything on default.
+- NoDevtoolsWarning
 
-### 7. Arch Linux @ RapahelRochet
-> Supported: Yes
+If you're not a masochist, using this plugin is basically essential, otherwise your discord will keep logging you off every time you close the app.
 
-Under **Advanced settings**, change the "**Command to update packages**" to
-
-    flatpak run com.raggesilver.BlackBox -c "paru ; echo Done - Press enter to exit; read _" 
-
-### 8. Desktop Icons NG (DING) @ rastersoft
- > Supported: No
-
-
- - Leave everything on default.
- 
-### 9. Show Desktop Button @ amivaleo
- > Supported: No
-
-
-Change **"Indicator position on panel"** to **"Far Right"**.
-
-### 10. Transparent Window Moving @ noobsai
- > Supported: No
-
-
- 1. **"Opacity"**: **200**
-
-# Example
-
-The final result will look something like this:
-
-![same from the main page](https://raw.githubusercontent.com/FelpohDutra/sysetup/main/images/gnome-my-first-rice-ever-v1.webp)
-
-![enter image description here](https://raw.githubusercontent.com/FelpohDutra/sysetup/refs/heads/main/images/Updated.png)
-
-By editing a little bit more, you can even get something that looks a bit more with "Windows"! (*uncanny valley territory to be honest*)
-
-![what](https://github.com/FelpohDutra/sysetup/blob/main/images/Screenshot-from-2024-08-25-16-48-32.png?raw=true)
