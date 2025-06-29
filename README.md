@@ -34,6 +34,6 @@ This setup ***may be somewhat impractical***, considering the heavy use of *Exte
 ## Setting up
 
  1. [**Linux Kernel**](https://github.com/FelpohDutra/sysetup/blob/2025/KERNEL.md) setup. Very important as it contains post-install configuration needed for my system to properly work.
- 2. [**XFCE System**](https://github.com/FelpohDutra/sysetup/blob/main/GNOME.md) setup. 
- 3. [**GNOME System**](https://github.com/FelpohDutra/sysetup/blob/main/GNOME.md) setup.
+ 2. [**XFCE System**](https://github.com/FelpohDutra/sysetup/blob/2025/XFCE.md) setup. 
+ 3. [**GNOME System**](https://github.com/FelpohDutra/sysetup/blob/205/GNOME.md) setup.
 
